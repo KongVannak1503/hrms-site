@@ -1,4 +1,4 @@
-<br />
+<!-- <br />
 <div align="center">
     <img src="public/favicon-light.svg" style="vertical-align: middle;" width="48" height="48"/>
     <br />
@@ -82,4 +82,4 @@ npm run dev
 
 [![ko-fi](https://img.shields.io/static/v1?message=Support%20me%20on%20ko-fi&logo=kofi&label=&color=ff5e5b&logoColor=white&labelColor=&style=for-the-badge)](https://ko-fi.com/J3J1NMYT7)
 
-[![youtube](https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@_xdcode_ "XD Code")
+[![youtube](https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@_xdcode_ "XD Code") -->
